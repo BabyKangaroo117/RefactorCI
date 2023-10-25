@@ -170,12 +170,17 @@ class DoublyLinkedList(object):
 
 # In[3]:
 
+def create_linked_list():
+    dL = DoublyLinkedList()
+
+    for i in range(4):
+        dL.add_last(Node(i))
+    return dL
 
 dL = DoublyLinkedList()
 
 for i in range(4):
     dL.add_last(Node(i))
-
 print(dL)
 
 assert str(dL) == f"(0, (1, (2, (3, ('Trailer', None)))))"
@@ -384,12 +389,10 @@ assert str(dL) == "(0, (1764, (1, (4, (1156, (9, (1, ('Trailer', None))))))))"
 #Test your implementation here
 
 
-for node in dL: 
-    print(node.get_element() == dn.__next__().get_element())
-    print(dn)
+# for node in dL: 
+#     print(node.get_element() == dn.__next__().get_element())
+#     print(dn)
 
-
-dL
 
 
 # 
