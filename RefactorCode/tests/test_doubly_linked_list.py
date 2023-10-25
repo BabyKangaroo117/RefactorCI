@@ -65,6 +65,8 @@ def test_add_before_after():
 
 def test_add_first_last():
     dL = create_linked_list()
+    dL.add_after(Node(42),dL.get_first())
+    dL.add_before(Node(34),dL.get_last())
     #Test your implementation here
     dL.add_first(Node(7))
     dL.add_last(Node(-1))
@@ -74,6 +76,11 @@ def test_add_first_last():
 
 def test_remove():
     dL = create_linked_list()
+    dL.add_after(Node(42),dL.get_first())
+    dL.add_before(Node(34),dL.get_last())
+    #Test your implementation here
+    dL.add_first(Node(7))
+    dL.add_last(Node(-1))
     #Test your implementation here
     dL.remove(dL.get_first())
     print(dL.get_first())
@@ -83,6 +90,13 @@ def test_remove():
 
 def test_map():
     dL = create_linked_list()
+    dL = create_linked_list()
+    dL.add_after(Node(42),dL.get_first())
+    dL.add_before(Node(34),dL.get_last())
+    #Test your implementation here
+    dL.add_first(Node(7))
+    dL.add_last(Node(-1))
+    dL.remove(dL.get_first())
     #Test your implementation here
     dL.map(lambda x: x**2)
 
