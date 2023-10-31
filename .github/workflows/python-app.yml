@@ -23,14 +23,12 @@ jobs:
         python-version: 3.11  # Specify the Python version you want to use
 
 
-
-    - name: Install Poetry
-      run: pip install poetry
-
+    # Poetry install not working
     - name: Install dependencies
       run: |
-        cd RefactorCode
-        poetry install
+        pip install poetry
+        pip install pytest
+        pip install flake8
 
     - name: Run test
       run: |
