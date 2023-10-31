@@ -33,10 +33,14 @@ jobs:
         poetry install
 
     - name: Run test
-      run: pytest > test_results.txt
+      run: |
+        cd RefactorCode
+        pytest > ../test_results.txt
 
     - name: Run tests with coverage
       run: pytest --cov=./RefactorCode --cov-report=xml:./RefactorCode/CoverageReport/coverage.xml
         
     - name: Run Flake 8
-      run: flake8 > flake8_report.txt
+      run: |
+        cd RefactorCode
+        flake8 > ../flake8_report.txt
