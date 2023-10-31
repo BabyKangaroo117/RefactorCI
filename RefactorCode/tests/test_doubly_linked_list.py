@@ -1,7 +1,19 @@
 import sys
 import os
 # Get the current directory of the file
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+current_directory = os.path.dirname(os.path.abspath(__file__))
+
+# Navigate to the parent directory
+parent_directory = os.path.dirname(current_directory)
+
+# Define the relative path to the 'RefactorCode' folder
+relative_path = 'refactorcode'
+
+# Construct the absolute path to the 'RefactorCode' folder
+absolute_path = os.path.join(parent_directory, relative_path)
+
+# Append the absolute path to sys.path
+sys.path.append(absolute_path)
 from assignment import DoublyLinkedList, twenties, create_linked_list, Node
 
 def test_node():
