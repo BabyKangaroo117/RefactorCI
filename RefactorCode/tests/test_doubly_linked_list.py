@@ -1,14 +1,7 @@
 import sys
 import os
 # Get the current directory of the file
-current_directory = os.path.dirname(os.path.abspath(__file__))
-
-# Define the relative path you want to append
-relative_path = 'RefactorCI/RefactorCode/refactorcode'
-
-# Construct the absolute path
-absolute_path = os.path.join(current_directory, relative_path) 
-sys.path.append(absolute_path)
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from assignment import DoublyLinkedList, twenties, create_linked_list, Node
 
 def test_node():
