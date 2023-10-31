@@ -1,0 +1,342 @@
+./RefactorCode/refactorcode/assignment.py:2:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:3:80: E501 line too long (128 > 79 characters)
+./RefactorCode/refactorcode/assignment.py:4:80: E501 line too long (162 > 79 characters)
+./RefactorCode/refactorcode/assignment.py:5:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:6:80: E501 line too long (270 > 79 characters)
+./RefactorCode/refactorcode/assignment.py:7:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:8:80: E501 line too long (140 > 79 characters)
+./RefactorCode/refactorcode/assignment.py:9:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:10:80: E501 line too long (221 > 79 characters)
+./RefactorCode/refactorcode/assignment.py:14:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:19:1: E303 too many blank lines (3)
+./RefactorCode/refactorcode/assignment.py:23:80: E501 line too long (121 > 79 characters)
+./RefactorCode/refactorcode/assignment.py:51:1: W293 blank line contains whitespace
+./RefactorCode/refactorcode/assignment.py:56:80: E501 line too long (220 > 79 characters)
+./RefactorCode/refactorcode/assignment.py:56:221: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:61:1: E303 too many blank lines (4)
+./RefactorCode/refactorcode/assignment.py:74:5: E301 expected 1 blank line, found 0
+./RefactorCode/refactorcode/assignment.py:87:14: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:121:80: E501 line too long (84 > 79 characters)
+./RefactorCode/refactorcode/assignment.py:128:80: E501 line too long (84 > 79 characters)
+./RefactorCode/refactorcode/assignment.py:169:80: E501 line too long (146 > 79 characters)
+./RefactorCode/refactorcode/assignment.py:180:1: E305 expected 2 blank lines after class or function definition, found 1
+./RefactorCode/refactorcode/assignment.py:186:19: F541 f-string is missing placeholders
+./RefactorCode/refactorcode/assignment.py:190:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:195:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:196:80: E501 line too long (100 > 79 characters)
+./RefactorCode/refactorcode/assignment.py:197:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:201:9: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:207:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/assignment.py:214:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:224:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/assignment.py:231:22: E712 comparison to False should be 'if cond is False:' or 'if not cond:'
+./RefactorCode/refactorcode/assignment.py:232:23: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+./RefactorCode/refactorcode/assignment.py:238:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:240:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:245:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:254:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/assignment.py:258:31: F541 f-string is missing placeholders
+./RefactorCode/refactorcode/assignment.py:259:30: F541 f-string is missing placeholders
+./RefactorCode/refactorcode/assignment.py:264:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:266:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:270:9: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:271:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:280:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/assignment.py:290:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:295:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:304:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/assignment.py:305:22: E231 missing whitespace after ','
+./RefactorCode/refactorcode/assignment.py:306:23: E231 missing whitespace after ','
+./RefactorCode/refactorcode/assignment.py:314:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:319:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:328:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/assignment.py:332:80: E501 line too long (80 > 79 characters)
+./RefactorCode/refactorcode/assignment.py:337:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:347:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/assignment.py:356:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:366:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/assignment.py:376:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:381:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:389:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/assignment.py:392:18: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:398:1: E303 too many blank lines (3)
+./RefactorCode/refactorcode/assignment.py:398:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:400:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:406:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:409:1: W293 blank line contains whitespace
+./RefactorCode/refactorcode/assignment.py:412:1: E303 too many blank lines (4)
+./RefactorCode/refactorcode/assignment.py:414:22: E231 missing whitespace after ','
+./RefactorCode/refactorcode/assignment.py:418:1: E305 expected 2 blank lines after class or function definition, found 1
+./RefactorCode/refactorcode/assignment.py:423:28: E225 missing whitespace around operator
+./RefactorCode/refactorcode/assignment.py:423:80: E501 line too long (106 > 79 characters)
+./RefactorCode/refactorcode/assignment.py:426:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:428:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:431:1: W293 blank line contains whitespace
+./RefactorCode/refactorcode/assignment.py:434:1: E303 too many blank lines (4)
+./RefactorCode/refactorcode/assignment.py:435:1: E302 expected 2 blank lines, found 0
+./RefactorCode/refactorcode/assignment.py:437:1: E305 expected 2 blank lines after class or function definition, found 0
+./RefactorCode/refactorcode/assignment.py:440:23: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:441:31: E225 missing whitespace around operator
+./RefactorCode/refactorcode/assignment.py:441:35: E225 missing whitespace around operator
+./RefactorCode/refactorcode/assignment.py:441:37: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:442:13: E117 over-indented
+./RefactorCode/refactorcode/assignment.py:446:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:448:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:451:1: W293 blank line contains whitespace
+./RefactorCode/refactorcode/assignment.py:454:1: E303 too many blank lines (4)
+./RefactorCode/refactorcode/assignment.py:455:6: E275 missing whitespace after keyword
+./RefactorCode/refactorcode/assignment.py:459:1: W293 blank line contains whitespace
+./RefactorCode/refactorcode/assignment.py:466:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:467:78: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:468:2: W291 trailing whitespace
+./RefactorCode/refactorcode/assignment.py:471:1: W293 blank line contains whitespace
+./RefactorCode/refactorcode/assignment.py:474:1: E303 too many blank lines (4)
+./RefactorCode/refactorcode/assignment.py:475:6: E275 missing whitespace after keyword
+./RefactorCode/refactorcode/assignment.py:479:1: W293 blank line contains whitespace
+./RefactorCode/refactorcode/assignment.py:484:1: W391 blank line at end of file
+./RefactorCode/refactorcode/cs132_HW1.py:1:2: E114 indentation is not a multiple of 4 (comment)
+./RefactorCode/refactorcode/cs132_HW1.py:1:2: E116 unexpected indentation (comment)
+./RefactorCode/refactorcode/cs132_HW1.py:4:80: E501 line too long (296 > 79 characters)
+./RefactorCode/refactorcode/cs132_HW1.py:6:1: E302 expected 2 blank lines, found 0
+./RefactorCode/refactorcode/cs132_HW1.py:7:7: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:7:7: E117 over-indented
+./RefactorCode/refactorcode/cs132_HW1.py:9:7: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:10:1: W293 blank line contains whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:11:1: E302 expected 2 blank lines, found 1
+./RefactorCode/refactorcode/cs132_HW1.py:12:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:12:6: E721 do not compare types, for exact checks use `is` / `is not`, for instance checks use `isinstance()`
+./RefactorCode/refactorcode/cs132_HW1.py:14:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:14:8: E721 do not compare types, for exact checks use `is` / `is not`, for instance checks use `isinstance()`
+./RefactorCode/refactorcode/cs132_HW1.py:16:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:19:1: E302 expected 2 blank lines, found 1
+./RefactorCode/refactorcode/cs132_HW1.py:24:1: W293 blank line contains whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:26:5: E303 too many blank lines (2)
+./RefactorCode/refactorcode/cs132_HW1.py:38:9: E122 continuation line missing indentation or outdented
+./RefactorCode/refactorcode/cs132_HW1.py:43:1: W293 blank line contains whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:44:5: E303 too many blank lines (3)
+./RefactorCode/refactorcode/cs132_HW1.py:47:9: E122 continuation line missing indentation or outdented
+./RefactorCode/refactorcode/cs132_HW1.py:64:7: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:67:7: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:70:7: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:73:7: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:82:7: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:85:7: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:89:7: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:90:7: E114 indentation is not a multiple of 4 (comment)
+./RefactorCode/refactorcode/cs132_HW1.py:90:7: E265 block comment should start with '# '
+./RefactorCode/refactorcode/cs132_HW1.py:91:1: W293 blank line contains whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:92:5: F811 redefinition of unused '__repr__' from line 81
+./RefactorCode/refactorcode/cs132_HW1.py:93:7: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:96:7: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:97:5: E301 expected 1 blank line, found 0
+./RefactorCode/refactorcode/cs132_HW1.py:98:7: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:99:1: W293 blank line contains whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:103:1: E305 expected 2 blank lines after class or function definition, found 1
+./RefactorCode/refactorcode/cs132_HW1.py:109:27: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:113:80: E501 line too long (157 > 79 characters)
+./RefactorCode/refactorcode/cs132_HW1.py:114:80: E501 line too long (117 > 79 characters)
+./RefactorCode/refactorcode/cs132_HW1.py:116:80: E501 line too long (317 > 79 characters)
+./RefactorCode/refactorcode/cs132_HW1.py:118:80: E501 line too long (115 > 79 characters)
+./RefactorCode/refactorcode/cs132_HW1.py:120:80: E501 line too long (133 > 79 characters)
+./RefactorCode/refactorcode/cs132_HW1.py:122:80: E501 line too long (205 > 79 characters)
+./RefactorCode/refactorcode/cs132_HW1.py:124:80: E501 line too long (398 > 79 characters)
+./RefactorCode/refactorcode/cs132_HW1.py:126:80: E501 line too long (126 > 79 characters)
+./RefactorCode/refactorcode/cs132_HW1.py:130:80: E501 line too long (126 > 79 characters)
+./RefactorCode/refactorcode/cs132_HW1.py:133:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/cs132_HW1.py:140:15: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:141:11: E262 inline comment should start with '# '
+./RefactorCode/refactorcode/cs132_HW1.py:142:23: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:148:24: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:152:23: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:157:23: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:171:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/cs132_HW1.py:173:25: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:174:1: E722 do not use bare 'except'
+./RefactorCode/refactorcode/cs132_HW1.py:177:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/cs132_HW1.py:184:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/cs132_HW1.py:187:29: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:188:29: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:190:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/cs132_HW1.py:194:12: E222 multiple spaces after operator
+./RefactorCode/refactorcode/cs132_HW1.py:194:24: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:198:80: E501 line too long (152 > 79 characters)
+./RefactorCode/refactorcode/cs132_HW1.py:200:80: E501 line too long (126 > 79 characters)
+./RefactorCode/refactorcode/cs132_HW1.py:232:80: E501 line too long (82 > 79 characters)
+./RefactorCode/refactorcode/cs132_HW1.py:238:80: E501 line too long (82 > 79 characters)
+./RefactorCode/refactorcode/cs132_HW1.py:289:80: E501 line too long (80 > 79 characters)
+./RefactorCode/refactorcode/cs132_HW1.py:311:28: W291 trailing whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:316:77: W291 trailing whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:345:1: E302 expected 2 blank lines, found 0
+./RefactorCode/refactorcode/cs132_HW1.py:358:1: E302 expected 2 blank lines, found 1
+./RefactorCode/refactorcode/cs132_HW1.py:365:5: E265 block comment should start with '# '
+./RefactorCode/refactorcode/cs132_HW1.py:366:19: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:368:5: E301 expected 1 blank line, found 0
+./RefactorCode/refactorcode/cs132_HW1.py:368:19: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:370:5: E265 block comment should start with '# '
+./RefactorCode/refactorcode/cs132_HW1.py:371:5: E301 expected 1 blank line, found 0
+./RefactorCode/refactorcode/cs132_HW1.py:372:23: E711 comparison to None should be 'if cond is None:'
+./RefactorCode/refactorcode/cs132_HW1.py:373:80: E501 line too long (86 > 79 characters)
+./RefactorCode/refactorcode/cs132_HW1.py:374:5: E301 expected 1 blank line, found 0
+./RefactorCode/refactorcode/cs132_HW1.py:375:23: E711 comparison to None should be 'if cond is None:'
+./RefactorCode/refactorcode/cs132_HW1.py:376:80: E501 line too long (86 > 79 characters)
+./RefactorCode/refactorcode/cs132_HW1.py:378:5: E301 expected 1 blank line, found 0
+./RefactorCode/refactorcode/cs132_HW1.py:383:23: E711 comparison to None should be 'if cond is None:'
+./RefactorCode/refactorcode/cs132_HW1.py:386:27: E711 comparison to None should be 'if cond is None:'
+./RefactorCode/refactorcode/cs132_HW1.py:390:1: W293 blank line contains whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:393:1: W293 blank line contains whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:405:15: E275 missing whitespace after keyword
+./RefactorCode/refactorcode/cs132_HW1.py:405:44: W291 trailing whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:407:1: E302 expected 2 blank lines, found 1
+./RefactorCode/refactorcode/cs132_HW1.py:421:1: E302 expected 2 blank lines, found 1
+./RefactorCode/refactorcode/cs132_HW1.py:421:27: W291 trailing whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:424:5: E301 expected 1 blank line, found 0
+./RefactorCode/refactorcode/cs132_HW1.py:425:15: E275 missing whitespace after keyword
+./RefactorCode/refactorcode/cs132_HW1.py:425:50: E275 missing whitespace after keyword
+./RefactorCode/refactorcode/cs132_HW1.py:425:78: W291 trailing whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:427:1: E302 expected 2 blank lines, found 1
+./RefactorCode/refactorcode/cs132_HW1.py:435:21: E711 comparison to None should be 'if cond is None:'
+./RefactorCode/refactorcode/cs132_HW1.py:436:80: E501 line too long (84 > 79 characters)
+./RefactorCode/refactorcode/cs132_HW1.py:439:1: W293 blank line contains whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:441:5: E303 too many blank lines (2)
+./RefactorCode/refactorcode/cs132_HW1.py:442:21: E711 comparison to None should be 'if cond is None:'
+./RefactorCode/refactorcode/cs132_HW1.py:461:1: W293 blank line contains whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:468:1: E302 expected 2 blank lines, found 1
+./RefactorCode/refactorcode/cs132_HW1.py:475:1: E302 expected 2 blank lines, found 1
+./RefactorCode/refactorcode/cs132_HW1.py:490:12: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:490:14: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:491:3: E114 indentation is not a multiple of 4 (comment)
+./RefactorCode/refactorcode/cs132_HW1.py:491:3: E265 block comment should start with '# '
+./RefactorCode/refactorcode/cs132_HW1.py:492:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:492:7: E225 missing whitespace around operator
+./RefactorCode/refactorcode/cs132_HW1.py:493:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:493:7: E225 missing whitespace around operator
+./RefactorCode/refactorcode/cs132_HW1.py:494:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:494:7: E225 missing whitespace around operator
+./RefactorCode/refactorcode/cs132_HW1.py:495:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:495:7: E225 missing whitespace around operator
+./RefactorCode/refactorcode/cs132_HW1.py:496:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:496:6: E225 missing whitespace around operator
+./RefactorCode/refactorcode/cs132_HW1.py:497:3: E114 indentation is not a multiple of 4 (comment)
+./RefactorCode/refactorcode/cs132_HW1.py:498:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:499:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:499:17: W291 trailing whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:500:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:501:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:502:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:503:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:504:3: E114 indentation is not a multiple of 4 (comment)
+./RefactorCode/refactorcode/cs132_HW1.py:504:3: E265 block comment should start with '# '
+./RefactorCode/refactorcode/cs132_HW1.py:505:3: F841 local variable 'ca' is assigned to but never used
+./RefactorCode/refactorcode/cs132_HW1.py:505:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:506:3: F841 local variable 'cb' is assigned to but never used
+./RefactorCode/refactorcode/cs132_HW1.py:506:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:507:1: W293 blank line contains whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:508:3: F841 local variable 'cc' is assigned to but never used
+./RefactorCode/refactorcode/cs132_HW1.py:508:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:509:3: F841 local variable 'cd' is assigned to but never used
+./RefactorCode/refactorcode/cs132_HW1.py:509:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:510:1: W293 blank line contains whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:511:3: E114 indentation is not a multiple of 4 (comment)
+./RefactorCode/refactorcode/cs132_HW1.py:511:3: E265 block comment should start with '# '
+./RefactorCode/refactorcode/cs132_HW1.py:512:3: E114 indentation is not a multiple of 4 (comment)
+./RefactorCode/refactorcode/cs132_HW1.py:513:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:514:1: W293 blank line contains whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:515:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/cs132_HW1.py:515:14: W291 trailing whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:516:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/cs132_HW1.py:517:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/cs132_HW1.py:518:1: E305 expected 2 blank lines after class or function definition, found 1
+./RefactorCode/refactorcode/cs132_HW1.py:518:2: E225 missing whitespace around operator
+./RefactorCode/refactorcode/cs132_HW1.py:519:12: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:520:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:520:14: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:521:10: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:521:22: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:521:24: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:522:12: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:522:14: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:522:20: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:524:2: E225 missing whitespace around operator
+./RefactorCode/refactorcode/cs132_HW1.py:525:12: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:526:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:526:14: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:527:10: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:527:22: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:527:24: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:528:12: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:528:14: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:528:20: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:529:1: W293 blank line contains whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:530:1: E302 expected 2 blank lines, found 1
+./RefactorCode/refactorcode/cs132_HW1.py:531:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:533:69: W291 trailing whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:540:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:541:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:541:14: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:542:16: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:543:7: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:543:21: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:543:23: E231 missing whitespace after ','
+./RefactorCode/refactorcode/cs132_HW1.py:544:7: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:545:3: E111 indentation is not a multiple of 4
+./RefactorCode/refactorcode/cs132_HW1.py:547:1: E305 expected 2 blank lines after class or function definition, found 1
+./RefactorCode/refactorcode/cs132_HW1.py:548:1: W293 blank line contains whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:549:1: E302 expected 2 blank lines, found 1
+./RefactorCode/refactorcode/cs132_HW1.py:549:28: E251 unexpected spaces around keyword / parameter equals
+./RefactorCode/refactorcode/cs132_HW1.py:549:30: E251 unexpected spaces around keyword / parameter equals
+./RefactorCode/refactorcode/cs132_HW1.py:568:1: E303 too many blank lines (4)
+./RefactorCode/refactorcode/cs132_HW1.py:568:26: E251 unexpected spaces around keyword / parameter equals
+./RefactorCode/refactorcode/cs132_HW1.py:568:28: E251 unexpected spaces around keyword / parameter equals
+./RefactorCode/refactorcode/cs132_HW1.py:591:1: E303 too many blank lines (6)
+./RefactorCode/refactorcode/cs132_HW1.py:607:1: W293 blank line contains whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:608:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/cs132_HW1.py:609:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/cs132_HW1.py:610:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/cs132_HW1.py:611:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/cs132_HW1.py:612:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/cs132_HW1.py:613:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/cs132_HW1.py:614:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/cs132_HW1.py:615:1: E265 block comment should start with '# '
+./RefactorCode/refactorcode/cs132_HW1.py:619:1: E303 too many blank lines (3)
+./RefactorCode/refactorcode/cs132_HW1.py:620:80: E501 line too long (82 > 79 characters)
+./RefactorCode/refactorcode/cs132_HW1.py:620:83: W291 trailing whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:621:53: W291 trailing whitespace
+./RefactorCode/refactorcode/cs132_HW1.py:624:80: E501 line too long (128 > 79 characters)
+./RefactorCode/tests/test_doubly_linked_list.py:2:68: W291 trailing whitespace
+./RefactorCode/tests/test_doubly_linked_list.py:3:1: E402 module level import not at top of file
+./RefactorCode/tests/test_doubly_linked_list.py:5:1: E302 expected 2 blank lines, found 1
+./RefactorCode/tests/test_doubly_linked_list.py:7:1: W293 blank line contains whitespace
+./RefactorCode/tests/test_doubly_linked_list.py:9:10: E111 indentation is not a multiple of 4
+./RefactorCode/tests/test_doubly_linked_list.py:9:10: E117 over-indented
+./RefactorCode/tests/test_doubly_linked_list.py:12:23: F541 f-string is missing placeholders
+./RefactorCode/tests/test_doubly_linked_list.py:14:1: E302 expected 2 blank lines, found 1
+./RefactorCode/tests/test_doubly_linked_list.py:19:1: E302 expected 2 blank lines, found 1
+./RefactorCode/tests/test_doubly_linked_list.py:28:5: E303 too many blank lines (2)
+./RefactorCode/tests/test_doubly_linked_list.py:28:26: E712 comparison to False should be 'if cond is False:' or 'if not cond:'
+./RefactorCode/tests/test_doubly_linked_list.py:29:27: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+./RefactorCode/tests/test_doubly_linked_list.py:35:1: E303 too many blank lines (4)
+./RefactorCode/tests/test_doubly_linked_list.py:37:5: E265 block comment should start with '# '
+./RefactorCode/tests/test_doubly_linked_list.py:41:35: F541 f-string is missing placeholders
+./RefactorCode/tests/test_doubly_linked_list.py:42:34: F541 f-string is missing placeholders
+./RefactorCode/tests/test_doubly_linked_list.py:47:1: E265 block comment should start with '# '
+./RefactorCode/tests/test_doubly_linked_list.py:57:5: E265 block comment should start with '# '
+./RefactorCode/tests/test_doubly_linked_list.py:58:26: E231 missing whitespace after ','
+./RefactorCode/tests/test_doubly_linked_list.py:59:27: E231 missing whitespace after ','
+./RefactorCode/tests/test_doubly_linked_list.py:66:1: E303 too many blank lines (3)
+./RefactorCode/tests/test_doubly_linked_list.py:68:26: E231 missing whitespace after ','
+./RefactorCode/tests/test_doubly_linked_list.py:69:27: E231 missing whitespace after ','
+./RefactorCode/tests/test_doubly_linked_list.py:70:5: E265 block comment should start with '# '
+./RefactorCode/tests/test_doubly_linked_list.py:74:80: E501 line too long (84 > 79 characters)
+./RefactorCode/tests/test_doubly_linked_list.py:79:26: E231 missing whitespace after ','
+./RefactorCode/tests/test_doubly_linked_list.py:80:27: E231 missing whitespace after ','
+./RefactorCode/tests/test_doubly_linked_list.py:81:5: E265 block comment should start with '# '
+./RefactorCode/tests/test_doubly_linked_list.py:84:5: E265 block comment should start with '# '
+./RefactorCode/tests/test_doubly_linked_list.py:94:26: E231 missing whitespace after ','
+./RefactorCode/tests/test_doubly_linked_list.py:95:27: E231 missing whitespace after ','
+./RefactorCode/tests/test_doubly_linked_list.py:96:5: E265 block comment should start with '# '
+./RefactorCode/tests/test_doubly_linked_list.py:100:5: E265 block comment should start with '# '
+./RefactorCode/tests/test_doubly_linked_list.py:105:80: E501 line too long (82 > 79 characters)
+./RefactorCode/tests/test_doubly_linked_list.py:107:1: E265 block comment should start with '# '
+./RefactorCode/tests/test_doubly_linked_list.py:110:22: W291 trailing whitespace
+./RefactorCode/tests/test_doubly_linked_list.py:121:32: E225 missing whitespace around operator
+./RefactorCode/tests/test_doubly_linked_list.py:121:80: E501 line too long (110 > 79 characters)

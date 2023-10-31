@@ -1,0 +1,45 @@
+name: CIProject
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: 3.11  # Specify the Python version you want to use
+
+
+
+    - name: Install Poetry
+      run: pip install poetry
+
+    - name: Install dependencies
+      run: |
+        cd RefactorCode
+        poetry install
+
+    - name: Run test
+      run: | 
+        cd RefactorCode
+        pytest > test_results.txt
+
+    - name: Run tests with coverage
+      run: |
+        pytest --cov=./RefactorCode --cov-report=xml:./RefactorCode/CoverageReport/coverage.xml
+        
+    - name: Run Flake 8
+      run: flake8 > flake8_report.txt
