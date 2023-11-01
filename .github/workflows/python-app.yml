@@ -37,7 +37,7 @@ jobs:
         poetry install
       
     - name: Run test
-      run: pytest > ../test_results.txt || true
+      run: pytest > ./test_results.txt || true
 
     - name: Run tests with coverage
       run: pytest --cov=./RefactorCode --cov-report=xml:../coverage.xml
@@ -45,15 +45,15 @@ jobs:
     - name: Run Flake 8
       run: |
         cd RefactorCode
-        flake8 > ../flake8_report.txt || true
+        flake8 > ./flake8_report.txt || true
 
     - name: Add files to the repository
       run: |
         cd  $GITHUB_WORKSPACE
         git config --global user.email "joeyporrino1998@gmail.com"
-        git config --global user.name "BabyKangaroo"
-        git add ../flake8_report.txt
-        git add ../test_results.txt
-        git add ../coverage.xml
+        git config --global user.name "BabyKangaroo117"
+        git add ./flake8_report.txt
+        git add ./test_results.txt
+        git add ./coverage.xml
         git commit -m "Add Reports" || echo "No changes to commit"
         git push   
